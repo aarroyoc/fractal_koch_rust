@@ -1,0 +1,7 @@
+[package]
+name = "fractal_koch_rust"
+version = "0.1.0"
+authors = ["Adrián Arroyo Calle <adrian.arroyocalle@gmail.com>"]
+
+[dependencies]
+turtle = "^1.0.0-alpha.7"
